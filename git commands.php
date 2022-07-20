@@ -42,3 +42,11 @@ Git Commands
 8. clone any repository
 
 	git clone repo link
+
+9. create new branch
+	
+	git checkout -b branchname
+
+10. change branch
+
+	git checkout branchname
